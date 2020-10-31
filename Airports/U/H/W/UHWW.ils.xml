@@ -2,12 +2,20 @@
 <PropertyList>
   <runway>
     <ils>
-      <lon>132.118333</lon>
-      <lat>43.388333</lat>
-      <rwy>25R</rwy>
-      <hdg-deg>242.66</hdg-deg>
-      <elev-m>14.02</elev-m>
-      <nav-id>IKW</nav-id>
+      <lon>132.17286111</lon>
+      <lat>43.40630556</lat>
+      <rwy>07R</rwy>
+      <hdg-deg>60.940</hdg-deg>
+      <elev-m>17.9832</elev-m>
+      <nav-id>ILS</nav-id>
+    </ils>
+    <ils>
+      <lon>132.12138889</lon>
+      <lat>43.38552778</lat>
+      <rwy>25L</rwy>
+      <hdg-deg>240.948</hdg-deg>
+      <elev-m>17.9832</elev-m>
+      <nav-id>ILN</nav-id>
     </ils>
   </runway>
 </PropertyList>
